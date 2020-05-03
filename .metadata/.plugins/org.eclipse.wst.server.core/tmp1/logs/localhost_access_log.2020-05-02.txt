@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:28 -0300] "POST /livraria/vendas.xhtml HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:28 -0300] "GET /livraria/login.xhtml HTTP/1.1" 200 3995
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:43 -0300] "POST /livraria/login.xhtml HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:43 -0300] "GET /livraria/login.xhtml HTTP/1.1" 200 3996
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:43 -0300] "POST /livraria/login.xhtml HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:55 -0300] "POST /livraria/login.xhtml HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:05:56 -0300] "GET /livraria/livro.xhtml HTTP/1.1" 200 29718
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:06:00 -0300] "POST /livraria/livro.xhtml HTTP/1.1" 200 148
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:06:01 -0300] "GET /livraria/vendas.xhtml HTTP/1.1" 200 13570
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:06:04 -0300] "POST /livraria/vendas.xhtml HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [02/May/2020:00:06:05 -0300] "GET /livraria/login.xhtml HTTP/1.1" 200 3996
